@@ -330,10 +330,13 @@ mindmap
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Looking+for+an+ML+or+web+developer+who+ships%3F;I+learn+it%2C+build+it%2C+and+ship+it.;Drop+me+a+mail+%E2%80%94+let's+build+something+intelligent+%F0%9F%A7%A0" />
 </p>
-
 <p align="center">
-  <a href="mailto:happyhsaini990@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-ef4444?style=for-the-badge" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/happy-saini-987546328/" /></a>
+  <a href="mailto:happyhsaini990@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Email%20Me-ef4444?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/happy-saini-987546328/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -341,5 +344,6 @@ mindmap
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 </p>
+
