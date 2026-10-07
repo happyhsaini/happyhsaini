@@ -17,7 +17,7 @@
 <p align="center">
   <a href="mailto:happyhsaini990@gmail.com"><img src="https://img.shields.io/badge/📩%20HIRE%20ME-happyhsaini990@gmail.com-ef4444?style=for-the-badge" /></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/happyhsaini/"><img src="https://img.shields.io/badge/LeetCode-60%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/happyhsaini/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://happyhsaini.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
@@ -333,7 +333,7 @@ mindmap
 
 <p align="center">
   <a href="mailto:happyhsaini990@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-ef4444?style=for-the-badge" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/happy-saini-987546328/" /></a>
 </p>
 
 <p align="center">
