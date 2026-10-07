@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/happyhsaini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=820&lines=90%25+ACCURACY+on+spam+%26+phishing+detection+%F0%9F%9B%A1%EF%B8%8F;SIH+2025+ROUND+2+QUALIFIED+%F0%9F%87%AE%F0%9F%87%B3;60%2B+DSA+PROBLEMS+ON+LEETCODE+%F0%9F%A7%A9;AWS+CERTIFIED+CLOUD+PRACTITIONER+%E2%98%81%EF%B8%8F;NLP+%7C+FLASK+%7C+FASTAPI+%7C+WEB+DEV+%F0%9F%9A%80;OPEN+TO+WORK.+I+BUILD+AND+SHIP.+%F0%9F%94%A5" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=820&lines=90%25+ACCURACY+on+spam+%26+phishing+detection+%F0%9F%9B%A1%EF%B8%8F;SIH+2025+ROUND+2+QUALIFIED+%F0%9F%87%AE%F0%9F%87%B3;100%2B+DSA+PROBLEMS+ON+LEETCODE+%F0%9F%A7%A9;AWS+CERTIFIED+CLOUD+PRACTITIONER+%E2%98%81%EF%B8%8F;NLP+%7C+FLASK+%7C+FASTAPI+%7C+WEB+DEV+%F0%9F%9A%80;OPEN+TO+WORK.+I+BUILD+AND+SHIP.+%F0%9F%94%A5" alt="typing" />
   </a>
 </p>
 
