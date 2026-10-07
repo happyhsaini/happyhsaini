@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| **90%** | **5** | **3** | **SIH 2025** | **60+** |
+| **90%** | **5** | **3** | **SIH 2025** | **100+** |
 |:---:|:---:|:---:|:---:|:---:|
 | accuracy on spam / phishing detection | role-based access tiers in Tathya | featured projects below | Qualified for Round 2 | DSA problems on LeetCode |
 
@@ -50,7 +50,7 @@
 |---|---|
 | 🇮🇳 | **Smart India Hackathon 2025:** qualified for the 2nd round |
 | ⚖️ | **Smart India Hackathon 2026:** built the Tathya prototype (PS ID SIH26190 · NCRB / MHA · Blockchain & Cybersecurity) |
-| 🧩 | **LeetCode:** 60+ DSA problems solved |
+| 🧩 | **LeetCode:** 100+ DSA problems solved |
 | ☁️ | **AWS Certified Cloud Practitioner** |
 | 🎓 | Oracle SQL Database · Red Hat Linux & Open Source Fundamentals · Tally Certificate · Infosys Springboard (Programming & CS Foundations) |
 
