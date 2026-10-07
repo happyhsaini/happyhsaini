@@ -35,7 +35,7 @@
 <td align="center"><h2>5</h2><sub>role-based access tiers<br>in <b>Tathya</b></sub></td>
 <td align="center"><h2>18</h2><sub>portfolio videos across<br><b>9 categories</b> on Editkaro.in</sub></td>
 <td align="center"><h2>SIH 2025</h2><sub>qualified for<br><b>Round 2</b></sub></td>
-<td align="center"><h2>60+</h2><sub>DSA problems<br>on LeetCode</sub></td>
+<td align="center"><h2>100+</h2><sub>DSA problems<br>on LeetCode</sub></td>
 </tr>
 </table>
 
