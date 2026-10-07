@@ -101,6 +101,7 @@ flowchart LR
     R --> C{Match stored<br/>and anchored hash?}
     C -->|Yes| OK[✅ VERIFIED]
     C -->|No| BAD[🚨 INTEGRITY FAILURE]
+
 ```
 
 | Highlight | Detail |
